@@ -1,0 +1,33 @@
+body{
+    font-size: 50pt;
+    background-color: coral;
+}
+
+#blue{
+    color: blue;
+}
+
+.purple{
+    color: purple;
+}
+
+#red{
+    color: red;
+}
+
+.panda{
+    background-color: black;
+    color: white;
+}
+
+.alignLeft{
+    text-align: left;
+}
+
+.alignCenter{
+    text-align: center;
+}
+
+.alignRight{
+    text-align: right;
+}

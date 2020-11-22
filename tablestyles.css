@@ -1,0 +1,30 @@
+table{
+    border: solid 1pt black;
+}
+
+th{
+    border: solid 1pt black;
+    padding: 10pt;
+    text-align: center;
+    background-color: lightgray;
+}
+
+tr{
+    background-color: lightpink;
+}
+
+tr:nth-child(even){
+    background-color: lightgreen;
+}
+
+td{
+    border: solid 1pt black;
+    padding: 10pt;
+    text-align: center;
+}
+
+tr:hover{
+    background-color: gold;
+    color: black;
+    font-weight: bolder;
+}
